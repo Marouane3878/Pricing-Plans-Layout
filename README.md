@@ -1,6 +1,8 @@
 
 # Pricing-Plans-Layout
 
+[Live Demo] (https://marouane3878.github.io/Pricing-Plans-Layout/)
+
 
 This project is a pricing plans layout built using HTML and CSS as part of my frontend learning journey. It focuses on layout structure, Flexbox, UI styling, and hover interactions commonly used in real-world pricing pages.
 
