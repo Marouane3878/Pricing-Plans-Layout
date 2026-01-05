@@ -1,2 +1,35 @@
-# Pricing-Plans-Layout
-A responsive pricing plans layout built with HTML and CSS, using Flexbox for layout and ordering. The project features reusable pricing cards with hover scale effects, visual feature indicators using check and cross icons, and styled call to action buttons.
+Pricing Plans Layout
+
+This project is a pricing plans layout built using HTML and CSS as part of my frontend learning journey. It focuses on layout structure, Flexbox, UI styling, and hover interactions commonly used in real-world pricing pages.
+
+🚀 Features
+
+Three pricing cards: Basic, Pro, and Premium
+
+Flexbox layout with custom ordering and flexible sizing
+
+Feature list with check (✓) and cross (✗) indicators
+
+Hover effect that scales cards for visual emphasis
+
+Styled call-to-action buttons
+
+Clean and readable UI design
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+Flexbox
+
+Hover effects
+
+Transforms & transitions
+
+📂 Project Structure
+pricing-plans/
+├── index.html
+├── styles.css
+└── README.md
